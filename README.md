@@ -12,9 +12,13 @@ All your bugreports and Suggestions you can send us on our Discord: https://disc
 
 # ChangeLog
 
-Pre-Version 0.1!
+Pre-Version 0.2
 
--added Stones & a new Weapon that can destroy the Stones
--added To the Infinit Version  3 Gamemodes 
--added the Easter Design
+-added Score
+-added Laucher
+-added Death
 -fixed some bugs
+
+We are moving our download page form Google Drive to Github!
+
+**!There is a new site were you can download the game!**
