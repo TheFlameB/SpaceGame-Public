@@ -10,6 +10,12 @@ And there we are this is our first game!
 
 All your bugreports and Suggestions you can send us on our Discord: https://discord.gg/yg2heBChZh. 
 
+#System Requiremets
+
+You need MicrosoftEdgeWebview2 to be installed!
+Download:https://developer.microsoft.com/en-us/microsoft-edge/webview2/#download-section
+
+
 # ChangeLog
 
 Pre-Version 0.2
